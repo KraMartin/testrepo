@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://KraMartin.github.io/testrepo/sitemap.xml

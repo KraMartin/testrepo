@@ -1,0 +1,14 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Niche content/affiliate site, built and maintained by scheduled Claude runs.",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
