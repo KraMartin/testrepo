@@ -5,7 +5,7 @@ Scaffold for a niche content + affiliate site, built with [Eleventy](https://www
 ## Status
 
 - [x] Site scaffold (Eleventy config, base layout, legal page templates, GitHub Actions deploy workflow, ledger).
-- [ ] **Niche not chosen yet** — `src/_data/site.json` still has placeholder title/description. No real articles exist except a placeholder post.
+- [x] **Niche chosen: Homeoffice-Einrichtung (home office setup, ergonomics, and German tax deductions for remote work).** German-language, avoids YMYL medical/financial-advice territory, has real Amazon.de affiliate potential (desks, monitor arms, chairs), and is less saturated than English-language home-office content. First 2 articles published; more added on each scheduled run.
 - [ ] One-time human setup (below) not yet confirmed complete.
 
 ## One-time human setup checklist
